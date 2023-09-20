@@ -1,2 +1,2 @@
-# typographica.github.io
-Typographica Twitter archive
+# stewf.github.io
+Stewf Twitter archive
